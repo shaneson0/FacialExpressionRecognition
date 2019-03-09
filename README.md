@@ -1,4 +1,4 @@
-# FaceDiscriminination （持续更新ing）
+# FacialExpressionRecognition （持续更新ing）
 Use CenterLoss , IslandLoss at, solve the Facial Expression Recognition task By Keras. (Use FER2013 Dataset)
 
 

@@ -1,2 +1,2 @@
 # FaceDiscriminination
-Implemente the FaceDiscriminination task by CenterLoss , IslandLoss at. (Use FER2013 Dataset)
+Use CenterLoss , IslandLoss at, solve the FaceDiscriminination task. (Use FER2013 Dataset)

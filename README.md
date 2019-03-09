@@ -1,5 +1,5 @@
 # FaceDiscriminination （持续更新ing）
-Use CenterLoss , IslandLoss at, solve the FaceDiscriminination task By Keras. (Use FER2013 Dataset)
+Use CenterLoss , IslandLoss at, solve the Facial Expression Recognition task By Keras. (Use FER2013 Dataset)
 
 
 # Center Loss
@@ -9,4 +9,5 @@ Use CenterLoss , IslandLoss at, solve the FaceDiscriminination task By Keras. (U
 # Island Loss
 
 论文地址: https://arxiv.org/abs/1710.03144
+
 
